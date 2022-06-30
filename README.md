@@ -1,4 +1,13 @@
-### Hi there 👋
+# ZERGAT Tarek
+Long experience in the architecture of management software, development, customization, implementation and deployment of different management solutions (purchasing, stocks, sales, assets, accounting, finance, CAPM, CMMS and more) in different economic fields.
+
+Actually:
+
+- 🔭 I’m currently working on a new [Online Course][courses] ...
+- 🌱 I’m currently learning amazing things ...
+- 👯 I help people to be programmers and feelancers ...
+- ⚡ Fun fact : I'am DJ, Diver, Skateboarder and Surfer
+- 📫 How to reach me: Instagram or email
 
 <!--
 **ztarek20/ztarek20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
